@@ -1,0 +1,13 @@
+{
+    "name": "Lil News",
+    "pour": "pint",
+    "url": "https://api.lil.software/news",
+    "image": "newspaper.fill",
+    "extractor": {
+        "id": "D446ECFF-C789-43F5-B292-90E7F5A15EE8",
+        "keys": ["articles"],
+        "title": "title",
+        "subtitle": "description",
+        "url": "url"
+    }
+}
