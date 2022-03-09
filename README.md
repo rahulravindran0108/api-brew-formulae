@@ -12,7 +12,6 @@ Top level Fields:
 - pour: One of `pint, mug, snifter`
 - extractor: Object containing the extractor logic
    - keys: List of top level fields within the main json to extract information. The result should either be a list of json objects or a single json object at the end.
-   - id: UUID string
    - title: The field to use for the title of the view
    - subtitle: The field to use for the subtitle of the view
    - url: The field to use for the url of the view
